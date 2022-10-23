@@ -1,8 +1,8 @@
 ---
-description: 'Gameplay NFT Application: Whitepaper'
+description: Whitepaper
 ---
 
-# Page 1
+# GamePlay NFT
 
 NFT games stand out from conventional online games because gamers are provided with opportunities to get rewards for completing gaming tasks and for selling gaming items and characters. The more time a user spends in a game, the higher the income. That is why this revolutionary model for the gaming industry has been dubbed Play-to-Earn.
 
